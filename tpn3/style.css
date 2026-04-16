@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.contenedor2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.h1 {
+   text-align: center;
+}
+
+
